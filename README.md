@@ -7,6 +7,9 @@
 - ⚡ Fun fact: Hasta La Vista!! ...
 - 🌟 Focused...
 
+- ![image alt](![Uploading Screenshot 2024-11-08 170658.png…])
+
+
 
 <!--ankitpandeyji/ankitpandeyji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
