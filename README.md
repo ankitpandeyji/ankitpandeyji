@@ -7,7 +7,6 @@
 - ⚡ Fun fact: Hasta La Vista!! ...
 - 🌟 Focused...
 
-- ![image alt](![Uploading Screenshot 2024-11-08 170658.png…])
 
 
 
